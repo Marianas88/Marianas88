@@ -2,7 +2,7 @@
 
 **`Data Scientist`**
 
-I am a Data Scientist with over 5 years of experience in the tech and marketing industry, specializing in developing organizational process improvements for leadership departments. Bilingual in English and Spanish, I hold dual master's degrees in Business Management (MBA) and Healthcare Management (MHM). I am passionate about leveraging agile methodologies to enhance project coordination and achieve objectives.
+I am a Data Scientist with over 5 years of experience in the tech and healthcare, specializing in developing organizational process improvements for leadership departments. Bilingual in English and Spanish, I hold dual Master's degrees in Business Management (MBA) and Healthcare Management (MSHCM). I am passionate about leveraging agile methodologies to enhance project coordination and achieve objectives.
 
 ---
 

@@ -1,4 +1,4 @@
-# ✨ Hello, I'm Mariana Santos ✨
+# ✨ Hello, I'm Mariana Santos 
 
 **`Data Scientist`**
 

@@ -31,7 +31,7 @@ I am a Data Scientist with over 8+ years of experience in the tech and healthcar
 
 ---
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/marianasantosmba/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/marianasantosmba) 
 ---
 [![](https://visitcount.itsvg.in/api?id=Marianas88&icon=1&color=1)](https://visitcount.itsvg.in)
 
